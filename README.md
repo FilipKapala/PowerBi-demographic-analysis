@@ -14,17 +14,17 @@ Interactive Power BI report analyzing demographic trends in Poland compared to E
 ### Dashboard 1 — Ageing Society
 Analyzes the share of people aged 65+ across Poland, Europe and the World over time.
 
-![Dashboard 1](images/dashboard_1.png)
+![Dashboard 1](Dashboard_1.png)
 
 ### Dashboard 2 — Age Structure: Poland vs Europe vs World
 Compares the percentage share of 18 age groups across all three regions, highlighting key structural differences.
 
-![Dashboard 2](images/dashboard_2.png)
+![Dashboard 2](Dashboard_2.png)
 
 ### Dashboard 3 — Year-over-Year Population Dynamics
 Shows which age groups are growing and which are shrinking, with YoY change metrics for each region.
 
-![Dashboard 3](images/dashboard_3.png)
+![Dashboard 3](Dashboard_3.png)
 
 ## Key Findings
 
